@@ -1,4 +1,4 @@
-# store_record
+# 六角學院 VUEX 課程練習
 
 ## Project setup
 ```
