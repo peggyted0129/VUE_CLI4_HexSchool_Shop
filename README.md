@@ -1,4 +1,7 @@
 # 六角學院 VUEX 課程練習
+```
+VUE_CLI4_test05
+```
 
 ## Project setup
 ```
